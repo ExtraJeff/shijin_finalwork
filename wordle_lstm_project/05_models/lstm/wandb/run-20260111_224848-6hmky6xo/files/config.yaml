@@ -1,0 +1,79 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            bpsloxchddk9w3d3zhjdmwcr1yqfngdy:
+                codePath: train_lstm.py
+                codePathLocal: train_lstm.py
+                cpu_count: 24
+                cpu_count_logical: 24
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "429497774080"
+                        used: "419616026624"
+                email: 231820009@smail.nju.edu.cn
+                executable: C:\Users\Jeffery\AppData\Local\Programs\Python\Python310\python.exe
+                gpu: NVIDIA GeForce RTX 5060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Blackwell
+                      cudaCores: 3328
+                      memoryTotal: "8546942976"
+                      name: NVIDIA GeForce RTX 5060 Laptop GPU
+                      uuid: GPU-43336042-d351-81f4-e26d-556b22315c34
+                host: LAPTOP-P0PF0L82
+                memory:
+                    total: "33752997888"
+                os: Windows-10-10.0.26200-SP0
+                program: C:\Users\Jeffery\Desktop\final_homework\wordle_lstm_project\05_models\lstm\train_lstm.py
+                python: CPython 3.10.11
+                root: C:\Users\Jeffery\Desktop\final_homework\wordle_lstm_project\05_models\lstm
+                startedAt: "2026-01-11T14:48:48.494699Z"
+                writerId: bpsloxchddk9w3d3zhjdmwcr1yqfngdy
+        m: []
+        python_version: 3.10.11
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "3":
+                - 3
+                - 8
+                - 13
+                - 16
+            "4": 3.10.11
+            "5": 0.23.1
+            "8":
+                - 3
+            "10":
+                - 17
+            "12": 0.23.1
+            "13": windows-amd64
+batch_size:
+    value: 128
+embed_dim:
+    value: 8
+epochs:
+    value: 30
+learning_rate:
+    value: 0.0003
+lstm_units:
+    value: 64
+model_type:
+    value: lstm
+patience:
+    value: 5
+seq_dim:
+    value: 5
+seq_len:
+    value: 7

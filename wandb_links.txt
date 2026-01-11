@@ -1,0 +1,13 @@
+# Wordle模型WandB链接
+
+## LSTM模型
+https://wandb.ai/legendjeff-nju/shijin/runs/ead3p8t5
+
+## BILSTM模型
+https://wandb.ai/legendjeff/wordle-game-prediction/runs/qhr1c82s
+
+## LSTM_ATTENTION模型
+https://wandb.ai/legendjeff/wordle-game-prediction/runs/nwn7xzq5
+
+## TRANSFORMER模型
+https://wandb.ai/legendjeff/wordle-game-prediction/runs/z3pb0rqa
